@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #dadfda;
+    border: 1px solid #000;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+header{
+    background-color: #ff2b2b;
+}
+
+/* #goals{ */
+    /* list-style: none; */ 
+    /* border: 1.5px solid #000; */
+    /* padding-left: 30px; */
+    /* text-align: left; */
+ /* } */
+
+ul{
+    /* list-style: none; */
+    /* list-style-position: inside;
+    text-align: center; */
+    list-style-position: outside;
+    /* text-align: center; */
+    display: inline-block;
+    /* padding-left: 30px; */
+    /* border-bottom: 1px sol
+    id #000; */
+}
+
+
